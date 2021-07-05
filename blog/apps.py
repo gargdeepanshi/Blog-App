@@ -6,4 +6,4 @@ class BlogConfig(AppConfig):
 
 
 
-    # I am Karan Ghai
+    # deepu is cute
